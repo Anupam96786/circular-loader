@@ -2,9 +2,8 @@
   "name": "circular-loader",
   "version": "1.0.0",
   "description": "A circular loader using CSS only.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:scss": "node-sass -w scss/ -o css/"
   },
   "repository": {
     "type": "git",
