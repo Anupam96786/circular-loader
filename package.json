@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Anupam96786/circular-loader/issues"
   },
-  "homepage": "https://github.com/Anupam96786/circular-loader#readme"
+  "homepage": "https://github.com/Anupam96786/circular-loader#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
 }
