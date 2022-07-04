@@ -30,6 +30,7 @@
   height: $radius;
   width: $radius;
   transform-origin: bottom left;
+  transform: translateX(50%) translateY(-50%);
   animation: rotate 2s infinite; // animation speed
 }
 
