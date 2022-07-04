@@ -1,7 +1,7 @@
 {
   "name": "circular-loader",
   "version": "1.0.0",
-  "description": "A circular loader using CSS only.",
+  "description": "A circular loader using CSS.",
   "scripts": {
     "compile:scss": "node-sass -w scss/ -o css/"
   },

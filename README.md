@@ -1,5 +1,7 @@
 # circular-loader
 
+A circular loader using CSS.
+
 ## Live Demo
 [Click Here](https://anupam96786.github.io/circular-loader/)
 
