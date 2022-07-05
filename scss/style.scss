@@ -34,7 +34,7 @@
   animation: rotate 2s infinite; // animation speed
 }
 
-@for $i from 0 to $elements {
+@for $i from 1 to $elements + 1 {
   .loader .element:nth-child(#{$i}) {
     animation-delay: #{$i * 200}ms; // delay of each element
   }

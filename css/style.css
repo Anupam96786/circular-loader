@@ -30,9 +30,6 @@
   transform: translateX(50%) translateY(-50%);
   animation: rotate 2s infinite; }
 
-.loader .element:nth-child(0) {
-  animation-delay: 0ms; }
-
 .loader .element:nth-child(1) {
   animation-delay: 200ms; }
 
@@ -44,6 +41,9 @@
 
 .loader .element:nth-child(4) {
   animation-delay: 800ms; }
+
+.loader .element:nth-child(5) {
+  animation-delay: 1000ms; }
 
 .loader .element:before {
   content: "";
